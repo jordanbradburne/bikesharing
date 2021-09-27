@@ -19,7 +19,7 @@ Finally, add the new visualizations to the two created in this module for the fi
 3. Deliverable 3: Create a Story and Report for the Final Presentation.
 
 ## Results: 
-The results with visualizations as well as the results of each can be found using this link below:
+The results with visualizations as well as the results of each can be found using this link:
 [link to dashboard](https://public.tableau.com/app/profile/jordan.bradburne/viz/NYCChallengeStory/NYCChallengeStory)
 
 * There was a total of 2,344,224 trips in the month of August.
