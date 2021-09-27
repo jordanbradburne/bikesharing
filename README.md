@@ -20,7 +20,7 @@ Finally, add the new visualizations to the two created in this module for the fi
 
 ## Results: 
 The results with visualizations as well as the results of each can be found using this link below:
-https://public.tableau.com/app/profile/jordan.bradburne/viz/NYCChallengeStory/NYCChallengeStory
+[link to dashboard](https://public.tableau.com/app/profile/jordan.bradburne/viz/NYCChallengeStory/NYCChallengeStory)
 
 * There was a total of 2,344,224 trips in the month of August.
 * From the total trips 1,900,359 users subscribe to the company and 443,865 users are customers.
